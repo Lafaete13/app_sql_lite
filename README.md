@@ -6,7 +6,7 @@ Aplicativo Android desenvolvido em Flutter para a disciplina **Desenvolvimento p
 
 ## 👨‍💻 Autoria
 - **Desenvolvedor:** Lafaete Dias Alves
-- **Matrícula:** 000000000
+- **Matrícula:** 241016600010
 - **Turma:** Desenvolvimento para Dispositivos Móveis — 2026
 
 ---
