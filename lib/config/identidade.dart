@@ -14,7 +14,8 @@ abstract final class Identidade {
   static const turma = 'Desenvolvimento para Dispositivos Móveis — 2026';
 
   static const integrantes = [
-    Integrante(nome: 'Lafaete Dias Alves', matricula: '000000000'),
+    Integrante(nome: 'Lafaete Dias Alves', matricula: '241016600010'),
+    Integrante(nome: 'Gustavo Santos Novais', matricula: '241016600029'),
   ];
 
   static const corSemente = Color(0xFF00796B);
