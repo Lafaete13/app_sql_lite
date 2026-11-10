@@ -32,8 +32,6 @@ Aplicativo Android desenvolvido em Flutter para a disciplina **Desenvolvimento p
 
 ## 📱 Prints do Aplicativo
 
-*(Adicione suas capturas de tela dentro da pasta `docs/prints/` do repositório)*
-
 | Lista de Itens | Formulário / Edição | Tela Sobre |
 |:---:|:---:|:---:|
 | ![Lista](docs/prints/tela_lista.png) | ![Formulário](docs/prints/tela_item.png) | ![Sobre](docs/prints/tela_sobre.png) |
